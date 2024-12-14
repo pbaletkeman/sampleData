@@ -30,7 +30,7 @@ python main.py sqlfile=test.db person=10 payment=10 food=10 address=10 finance=1
 
 python main.py sqlfile=test.db person=100000
 
-python main.py payment=100000
+python main.py payment=100000 global_seed=9584
 
 python main.py person=50000 payment=600 food=123456
 ```
