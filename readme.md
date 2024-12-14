@@ -25,4 +25,4 @@ finance=10
 global_seed="fund"
 
 ### Example command line: 
-python main.py sqlfile=test1.db person=10 payment=10 food=10 address=10 finance=10 global_seed="fund"
+python main.py sqlfile=test.db person=10 payment=10 food=10 address=10 finance=10 global_seed="fund"
