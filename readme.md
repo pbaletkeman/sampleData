@@ -24,5 +24,13 @@ finance=10
 #### omit and get random values
 global_seed="fund"
 
-### Example command line: 
+### Example command lines:
+```
 python main.py sqlfile=test.db person=10 payment=10 food=10 address=10 finance=10 global_seed="fund"
+
+python main.py sqlfile=test.db person=100000
+
+python main.py payment=100000
+
+python main.py person=50000 payment=600 food=123456
+```
