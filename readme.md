@@ -1,5 +1,5 @@
 ### Required libraries
-pip install mimesis=18.0.0
+pip install mimesis==18.0.0
 
 ### Name of the sqlite file to add data to
 sqlfile=test.db
